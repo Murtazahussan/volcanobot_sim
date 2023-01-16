@@ -1,7 +1,7 @@
 # volcanobot_sim
 Simulation Based 3D Mapping Using 2 RP-Lidars in Vertical and Horizontal
 
-(.) The given is the simulated model on Rviz with horizontal and vertical lidar can be ssen by given following command:
+INSTALLATION:
  
 (.) cd catkin_ws/src
  
