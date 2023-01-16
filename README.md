@@ -74,9 +74,9 @@ The map is already saved in /volcanobot_sim_description/maps directory if using 
 
 # Volcanobot Navigation
 
-roslaunch navbot_description gazebo.launch
+roslaunch volcanobot_sim_description gazebo.launch
 
-roslaunch navbot_navigation move_base.launch
+roslaunch volcanobot_sim_navigation move_base.launch
 
 rviz
 
