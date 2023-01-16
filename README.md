@@ -61,5 +61,8 @@ By using popular package of /teleop_twist_keyboard odom will be seems as follows
 
 (.) rosrun map_server map_saver -f newmap
 
+## volcanobot G-Mapping Output
+
+![image](https://user-images.githubusercontent.com/122727165/212752411-6a9ebf7d-e0eb-4451-b703-8403850d3170.png)
 
 (.)
