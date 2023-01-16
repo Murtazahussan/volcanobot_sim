@@ -25,7 +25,7 @@ The given command used for spawn the volcanobot in gezebo based simulation:
 
 ![image](https://user-images.githubusercontent.com/122727165/212729488-35f31702-7a71-46ef-ab36-2d8a1ef62e18.png)
 
-## volcanobot_sim TF-TREE
+# volcanobot_sim TF-TREE
 
 The transformation Tf-Tree of volcanobot will be seems as:
 
