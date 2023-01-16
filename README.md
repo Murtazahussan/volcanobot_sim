@@ -118,3 +118,8 @@ Type rqt in terminal and open dynamic reconfigure pluggin, load the final_reconf
 
 ![image](https://user-images.githubusercontent.com/122727165/212764310-159eeb38-c37a-44ac-a60b-805f20f9a8f3.png)
 
+# FINAL WORKING VIDEO OF REAL-TIME 3D Point Cloud Generation
+
+https://user-images.githubusercontent.com/122727165/212772238-026c7a1c-f808-40a8-8d3a-adc09b5568e2.mp4
+
+
