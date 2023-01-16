@@ -13,7 +13,7 @@
 
 # 3D Simulated model of volcanobot
 
-The volcanobot was modelled in Fusion360 and converted to URDF using fusion2urdf. Gazebo Pluggins for skid_steering_drive ,Odometry and both horizontal and vertical lidar were added to the urdf and tested in a custom made simulation environment/world in Gazebo.The given is the simulated model on Rviz with horizontal and vertical lidar. The model can be seen by given following command with all transformations ok status:
+The volcanobot was modelled in Fusion360 and converted to URDF using fusion2urdf. Gazebo Pluggins for skid_steering_drive ,Odometry and both horizontal and vertical lidar were added to the urdf and tested in a custom made simulation environment/world in Gazebo. The given is the simulated model on Rviz with horizontal and vertical lidar. The model can be seen by given following command with all transformations ok status:
  
 (.) roslaunch volcanobot_sim_description display.launch
 
