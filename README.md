@@ -1,7 +1,7 @@
 # Volcanobot_Sim
 ##########################   Simulation Based 3D Mapping Using 2 RP-Lidars in Vertical and Horizontal ########################
 
-# INSTALLATION FOR Simulation Setup
+# Installation For Simulation Setup
  
 (.) cd catkin_ws/src
  
