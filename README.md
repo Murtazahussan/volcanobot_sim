@@ -23,4 +23,9 @@ The given command used for spawn the volcanobot in gezebo based simulation:
 
 ![image](https://user-images.githubusercontent.com/122727165/212729488-35f31702-7a71-46ef-ab36-2d8a1ef62e18.png)
 
+The topics used for communication are as follows:
+
+![image](https://user-images.githubusercontent.com/122727165/212730224-f23fdc63-563a-4c04-8d52-0335354b69e9.png)
+
+
 (.)
