@@ -99,9 +99,7 @@ NOTE: Add merged_cloud topic on point_cloud2 in rviz and give decay of 1000.
 ![image](https://user-images.githubusercontent.com/122727165/212757150-7f678a20-67ba-4b81-bade-ff63bd130d8d.png)
 
 ![image](https://user-images.githubusercontent.com/122727165/212757323-a9a6a9f5-bd8a-48d4-bbdf-52f2c8f36de6.png)
-
 ![image](https://user-images.githubusercontent.com/122727165/212757351-b0088934-5215-430d-bce2-8923408dc6c5.png)
-
 
 
 # Volcanobot Navigation
