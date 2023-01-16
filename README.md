@@ -23,6 +23,10 @@ The given command used for spawn the volcanobot in gezebo based simulation:
 
 ![image](https://user-images.githubusercontent.com/122727165/212729488-35f31702-7a71-46ef-ab36-2d8a1ef62e18.png)
 
+The transformation Tf-Tree of volcanobot will be seems as:
+
+![image](https://user-images.githubusercontent.com/122727165/212730593-22bd3912-e2ad-495c-9f2e-75d7d11bb5e6.png)
+
 The topics used for communication are as follows:
 
 ![image](https://user-images.githubusercontent.com/122727165/212730224-f23fdc63-563a-4c04-8d52-0335354b69e9.png)
