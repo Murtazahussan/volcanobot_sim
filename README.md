@@ -74,17 +74,34 @@ The map is already saved in /volcanobot_sim_description/maps directory if using 
 
 # Volcanobot Real-Time 3D Point-Cloud Generation
 
+clone follow package into your workspace
+
 (.) roslaunch volcanobot_sim_description gazebo.launch
+
+(.) https://github.com/Murtazahussan/ira_laser_tools.git
+
+(.) roslaunch ira_laser_tools laserscan_multi_merger.launch
+
+NOTE: Above command produce merged node of point-cloud whose name is merged_cloud for 3D point-cloud
 
 (.) roslaunch gmapping mapping.launch
 
 (.) rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 
-(.) roslaunch ira_laser
-
 (.) rviz
 
+NOTE: Add merged_cloud topic on point_cloud2 in rviz and give decay of 1000.
+
 (.) rosrun map_server map_saver -f newmap
+
+## Volcanobot Real-Time 3D Point-Cloud Generation Output
+
+![image](https://user-images.githubusercontent.com/122727165/212757150-7f678a20-67ba-4b81-bade-ff63bd130d8d.png)
+
+![image](https://user-images.githubusercontent.com/122727165/212757323-a9a6a9f5-bd8a-48d4-bbdf-52f2c8f36de6.png)
+
+![image](https://user-images.githubusercontent.com/122727165/212757351-b0088934-5215-430d-bce2-8923408dc6c5.png)
+
 
 
 # Volcanobot Navigation
