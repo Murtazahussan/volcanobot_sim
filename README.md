@@ -15,7 +15,7 @@ The given is the simulated model on Rviz with horizontal and vertical lidar. The
  
 (.) roslaunch volcanobot_sim_description display.launch
 
-   ![image](https://user-images.githubusercontent.com/122727165/212729009-df6c45cd-97aa-4259-862e-cbc2736d5b6b.png)
+![image](https://user-images.githubusercontent.com/122727165/212729009-df6c45cd-97aa-4259-862e-cbc2736d5b6b.png)
 
 The given command used for spawn the volcanobot in gezebo based simulation:
 
