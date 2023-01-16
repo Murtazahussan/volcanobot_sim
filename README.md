@@ -47,4 +47,19 @@ By using popular package of /teleop_twist_keyboard odom will be seems as follows
 
 ![image](https://user-images.githubusercontent.com/122727165/212731550-cb354f74-6cc9-4902-9f86-c656820be39c.png)
 
+# volcanobot Mapping
+
+## G-Mapping
+
+(.) roslaunch volcanobot_sim_description gazebo.launch
+
+(.) roslaunch gmapping mapping.launch
+
+(.) rosrun teleop_twist_keyboard teleop_twist_keyboard.py
+
+(.) rviz
+
+(.) rosrun map_server map_saver -f newmap
+
+
 (.)
