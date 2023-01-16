@@ -21,6 +21,6 @@ INSTALLATION:
 
 (.) roslaunch volcanobot_sim_description gazebo.launch (with both Rp-lidars plugin)
 
-![image](https://user-images.githubusercontent.com/122727165/212729383-0b264222-5d3b-4859-887c-68f27c290189.png)
+![image](https://user-images.githubusercontent.com/122727165/212729488-35f31702-7a71-46ef-ab36-2d8a1ef62e18.png)
 
 (.)
