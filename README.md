@@ -64,5 +64,7 @@ By using popular package of /teleop_twist_keyboard odom will be seems as follows
 ## volcanobot G-Mapping Output
 
 ![image](https://user-images.githubusercontent.com/122727165/212752411-6a9ebf7d-e0eb-4451-b703-8403850d3170.png)
+![image](https://user-images.githubusercontent.com/122727165/212752470-b057725f-a061-4442-b85c-2f20fad74c8c.png)
+
 
 (.)
