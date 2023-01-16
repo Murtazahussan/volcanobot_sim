@@ -15,7 +15,7 @@ INSTALLATION:
  
 (.) roslaunch volcanobot_sim_description display.launch
 
- ![image](https://user-images.githubusercontent.com/122727165/212728398-1f9b690c-a944-464b-87b5-42d996a76b6d.png)
+ ![image](https://user-images.githubusercontent.com/122727165/212728837-e436ec51-b430-4dd4-9dab-74784f09909e.png)
 
 (.) The given command used for spawn the volcanobot in gezebo based simulation:
 
