@@ -1,7 +1,7 @@
 # volcanobot_sim
 ##########################   Simulation Based 3D Mapping Using 2 RP-Lidars in Vertical and Horizontal ########################
 
-INSTALLATION:
+# INSTALLATION FOR Simulation Setup:
  
 (.) cd catkin_ws/src
  
@@ -11,9 +11,9 @@ INSTALLATION:
  
 (.) source devel/setup.bash
 
-# volcanobot_sim Simulated model
+# 3D Simulated model of volcanobot_sim 
 
-The given is the simulated model on Rviz with horizontal and vertical lidar. The model can be ssen by given following command with all transformations ok status:
+The volcanobot was modelled in Fusion360 and converted to URDF using fusion2urdf. Gazebo Pluggins for skid_steering_drive ,Odometry and both horizontal and vertical lidar were added to the urdf and tested in a custom made simulation environment/world in Gazebo.The given is the simulated model on Rviz with horizontal and vertical lidar. The model can be seen by given following command with all transformations ok status:
  
 (.) roslaunch volcanobot_sim_description display.launch
 
@@ -24,6 +24,8 @@ The given command used for spawn the volcanobot in gezebo based simulation:
 (.) roslaunch volcanobot_sim_description gazebo.launch (with both Rp-lidars plugin)
 
 ![image](https://user-images.githubusercontent.com/122727165/212729488-35f31702-7a71-46ef-ab36-2d8a1ef62e18.png)
+
+## volcanobot_sim TF-TREE
 
 The transformation Tf-Tree of volcanobot will be seems as:
 
