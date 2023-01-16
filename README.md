@@ -114,5 +114,7 @@ After opening Rviz open the configuration file from the Rviz folder.
 
 Type rqt in terminal and open dynamic reconfigure pluggin, load the final_reconf_param_sim.yaml from the reconf_params folder and you are all set to give navigation goals.
 
+# Volcanobot Navigation Output
 
-(.)
+![image](https://user-images.githubusercontent.com/122727165/212764310-159eeb38-c37a-44ac-a60b-805f20f9a8f3.png)
+
