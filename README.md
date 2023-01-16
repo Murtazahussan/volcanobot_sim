@@ -8,10 +8,10 @@ INSTALLATION:
 (.) https://github.com/Murtazahussan/volcanobot_sim.git
  
 (.) cd ..
-
-# volcanobot_sim
  
 (.) source devel/setup.bash
+
+# volcanobot_sim Simulated model
 
 The given is the simulated model on Rviz with horizontal and vertical lidar. The model can be ssen by given following command with all transformations ok status:
  
