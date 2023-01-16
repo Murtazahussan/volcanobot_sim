@@ -8,6 +8,8 @@ INSTALLATION:
 (.) https://github.com/Murtazahussan/volcanobot_sim.git
  
 (.) cd ..
+
+# volcanobot_sim
  
 (.) source devel/setup.bash
 
