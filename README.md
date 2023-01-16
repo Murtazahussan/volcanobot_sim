@@ -72,6 +72,21 @@ NOTE: Green line shows the odometry of the volcanobot and the 2nd image is the p
 
 The map is already saved in /volcanobot_sim_description/maps directory if using the preset map.
 
+# Volcanobot Real-Time 3D Point-Cloud Generation
+
+(.) roslaunch volcanobot_sim_description gazebo.launch
+
+(.) roslaunch gmapping mapping.launch
+
+(.) rosrun teleop_twist_keyboard teleop_twist_keyboard.py
+
+(.) roslaunch ira_laser
+
+(.) rviz
+
+(.) rosrun map_server map_saver -f newmap
+
+
 # Volcanobot Navigation
 
 roslaunch volcanobot_sim_description gazebo.launch
