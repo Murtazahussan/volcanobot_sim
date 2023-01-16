@@ -31,5 +31,8 @@ The topics used for communication are as follows:
 
 ![image](https://user-images.githubusercontent.com/122727165/212730224-f23fdc63-563a-4c04-8d52-0335354b69e9.png)
 
+By using popular package of /teleop_twist_keyboard odom will be seems as follows in Rviz:
+
+![image](https://user-images.githubusercontent.com/122727165/212731550-cb354f74-6cc9-4902-9f86-c656820be39c.png)
 
 (.)
