@@ -68,7 +68,7 @@ Open a new terminal window and run the following commands:
 ![image](https://user-images.githubusercontent.com/122727165/212752411-6a9ebf7d-e0eb-4451-b703-8403850d3170.png)
 ![image](https://user-images.githubusercontent.com/122727165/212752470-b057725f-a061-4442-b85c-2f20fad74c8c.png)
 
-NOTE: Green line shows the odometry of the volcanobot
+NOTE: Green line shows the odometry of the volcanobot and the 2nd image is the png of map
 
 The map is already saved in /volcanobot_sim_description/maps directory if using the preset map.
 
@@ -80,6 +80,9 @@ roslaunch volcanobot_sim_navigation move_base.launch
 
 rviz
 
+After opening Rviz open the configuration file from the Rviz folder.
+
+Type rqt in terminal and open dynamic reconfigure pluggin, load the final_reconf_param_sim.yaml from the reconf_params folder and you are all set to give navigation goals.
 
 
 (.)
