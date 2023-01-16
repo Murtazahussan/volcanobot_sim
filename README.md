@@ -19,4 +19,8 @@ INSTALLATION:
 
 (.) The given command used for spawn the volcanobot in gezebo based simulation:
 
+(.) roslaunch volcanobot_sim_description gazebo.launch (with both Rp-lidars plugin)
+
+![image](https://user-images.githubusercontent.com/122727165/212729383-0b264222-5d3b-4859-887c-68f27c290189.png)
+
 (.)
