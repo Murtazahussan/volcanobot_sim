@@ -1,7 +1,7 @@
-# volcanobot_sim
+# Volcanobot_Sim
 ##########################   Simulation Based 3D Mapping Using 2 RP-Lidars in Vertical and Horizontal ########################
 
-# INSTALLATION FOR Simulation Setup:
+# INSTALLATION FOR Simulation Setup
  
 (.) cd catkin_ws/src
  
@@ -25,19 +25,19 @@ The given command used for spawn the volcanobot in gezebo based simulation:
 
 ![image](https://user-images.githubusercontent.com/122727165/212729488-35f31702-7a71-46ef-ab36-2d8a1ef62e18.png)
 
-# volcanobot Tf-tree
+# Volcanobot Tf-tree
 
 The transformation Tf-Tree of volcanobot will be seems as:
 
 ![image](https://user-images.githubusercontent.com/122727165/212730593-22bd3912-e2ad-495c-9f2e-75d7d11bb5e6.png)
 
-# volcanobot_sim Topics
+# Volcanobot_sim Topics
 
 The topics used for communication are as follows:
 
 ![image](https://user-images.githubusercontent.com/122727165/212730224-f23fdc63-563a-4c04-8d52-0335354b69e9.png)
 
-# volcanobot Odometry in Rviz
+# Volcanobot Odometry in Rviz
 
 By using popular package of /teleop_twist_keyboard odom will be seems as follows in Rviz:
 
@@ -47,7 +47,7 @@ By using popular package of /teleop_twist_keyboard odom will be seems as follows
 
 ![image](https://user-images.githubusercontent.com/122727165/212731550-cb354f74-6cc9-4902-9f86-c656820be39c.png)
 
-# volcanobot Mapping
+# Volcanobot Mapping
 
 ## G-Mapping
 
@@ -61,10 +61,13 @@ By using popular package of /teleop_twist_keyboard odom will be seems as follows
 
 (.) rosrun map_server map_saver -f newmap
 
-## volcanobot G-Mapping Output
+## Volcanobot G-Mapping Output
+
+Open a new terminal window and run the following commands:
 
 ![image](https://user-images.githubusercontent.com/122727165/212752411-6a9ebf7d-e0eb-4451-b703-8403850d3170.png)
 ![image](https://user-images.githubusercontent.com/122727165/212752470-b057725f-a061-4442-b85c-2f20fad74c8c.png)
 
+The map is already saved in /volcanobot_sim_description/maps directory if using the preset map.
 
 (.)
