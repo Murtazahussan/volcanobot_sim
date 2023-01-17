@@ -106,11 +106,11 @@ NOTE: Add merged_cloud topic on point_cloud2 in rviz and give decay of 1000.
 
 # Volcanobot Navigation
 
-roslaunch volcanobot_sim_description gazebo.launch
+(.) roslaunch volcanobot_sim_description gazebo.launch
 
-roslaunch volcanobot_sim_navigation move_base.launch
+(.) roslaunch volcanobot_sim_navigation move_base.launch
 
-rviz
+(.) rviz
 
 After opening Rviz open the configuration file from the Rviz folder.
 
