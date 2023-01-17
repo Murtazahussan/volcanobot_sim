@@ -76,9 +76,9 @@ The map is already saved in /volcanobot_sim_description/maps directory if using 
 
 # Volcanobot Real-Time 3D Point-Cloud Generation
 
-clone follow package into your workspace
-
 (.) roslaunch volcanobot_sim_description gazebo.launch
+
+clone follow package into your workspace
 
 (.) https://github.com/Murtazahussan/ira_laser_tools.git
 
