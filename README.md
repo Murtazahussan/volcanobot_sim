@@ -41,6 +41,8 @@ The topics used for communication are as follows:
 
 By using popular package of /teleop_twist_keyboard odom will be seems as follows in Rviz:
 
+(.) roslaunch volcanobot_sim_description gazebo.launch
+
 (.) rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 
 (.) rosrun rviz rviz
