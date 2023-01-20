@@ -1,6 +1,10 @@
 # Volcanobot_Sim
 #########>>>>> Simulation Based 3D Mapping Using 2 RP-Lidars in Vertical and Horizontal <<<<<#########
 
+### Dedication
+
+Specially this project is dedicated to my parants S.Mujahid hussain (My Father) and Kaneez Fatima Rizvi (My Mother), Institute of Industrial Electronics Engineering: IIEE and to the students of IIEE.
+
 # Installation For Simulation Setup
  
 (.) cd catkin_ws/src
