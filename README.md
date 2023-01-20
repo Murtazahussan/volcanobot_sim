@@ -2,9 +2,13 @@
 #########>>>>> Simulation Based Real-Time 3D Mapping Using 2 RP-Lidars in Vertical and Horizontal <<<<<#########
 
 ### Prerequisites
+
 Ubuntu version : 18.04
+
 ROS version : Melodic
+
 Editor used : Vscode
+
 Compiler : catkin
 
 ### Dedication
