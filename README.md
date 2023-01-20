@@ -5,7 +5,7 @@
 
 Ubuntu version : 18.04
 
-ROS version : Melodic
+ROS flavour : Melodic
 
 Editor used : Vscode
 
