@@ -1,6 +1,12 @@
 # Volcanobot_Sim
 #########>>>>> Simulation Based Real-Time 3D Mapping Using 2 RP-Lidars in Vertical and Horizontal <<<<<#########
 
+### Prerequisites
+Ubuntu version : 18.04
+ROS version : Melodic
+Editor used : Vscode
+Compiler : catkin
+
 ### Dedication
 
 Specially this project is dedicated to my parants S.Mujahid hussain (My Father) and Kaneez Fatima Rizvi (My Mother), Institute of Industrial Electronics Engineering: IIEE and to the students of IIEE.
