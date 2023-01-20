@@ -1,5 +1,5 @@
 # Volcanobot_Sim
-#########>>>>> Simulation Based 3D Mapping Using 2 RP-Lidars in Vertical and Horizontal <<<<<#########
+#########>>>>> Simulation Based Real-Time 3D Mapping Using 2 RP-Lidars in Vertical and Horizontal <<<<<#########
 
 ### Dedication
 
